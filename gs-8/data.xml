@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<school>
+
+    <student>
+        <name>Aurora</name>
+        <roll>101</roll>
+    </student>
+
+    <student>
+        <name>Ciel</name>
+        <roll>102</roll>
+    </student>
+
+</school>
